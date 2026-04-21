@@ -11,9 +11,9 @@ This project analyzes sales data to identify trends, top-performing categories, 
 ## 📂 Files Included
 - sales_data_analysis.ipynb → Data analysis using Python
 - analysis_queries.sql → SQL queries
-- salesanalysis.pbix → Power BI dashboard
+- sales_analysis.pbix → Power BI dashboard
 - superstore.csv → Dataset
-- sales_analysis.png → Dashboard preview
+- sales_analysis_dashboard.png → Dashboard preview
 
 ## 📊 Key Insights
 - Technology category has highest sales
