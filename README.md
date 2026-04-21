@@ -14,6 +14,8 @@ This project analyzes sales data to identify trends, top-performing categories, 
 - sales_analysis.pbix → Power BI dashboard
 - superstore.csv → Dataset
 - sales_analysis_dashboard.png → Dashboard preview
+  ![Sales Dashboard]
+  (sales_analysis_dashboard.png)
 
 ## 📊 Key Insights
 - Technology category has highest sales
